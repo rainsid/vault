@@ -1,0 +1,1 @@
+- You can use the *[[rustfmt]]* tool to format your code:

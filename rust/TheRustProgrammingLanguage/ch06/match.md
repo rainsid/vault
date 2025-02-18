@@ -1,0 +1,2 @@
+- A *match* expression is made up of *arms*
+- an *arm* consist of pattern to match against

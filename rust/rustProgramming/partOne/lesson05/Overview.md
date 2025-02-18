@@ -1,0 +1,7 @@
+- The rust lib defines many collection classes
+	- defined in the *`std::collections`* module (not imported automatically)
+- For example:
+	- [[HashMap]]
+	- BTreeMap
+	- HashSet
+	- BTreeSet
