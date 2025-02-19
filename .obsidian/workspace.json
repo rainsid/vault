@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "a60d5fb115f6f64b",
+    "id": "d2ba875d766b3e97",
     "type": "split",
     "children": [
       {
-        "id": "92e58db120f34960",
+        "id": "be9981957f41ae14",
         "type": "tabs",
         "children": [
           {
-            "id": "4f7de796afad34bc",
+            "id": "c2174f13d224f36c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nix/a_tour_of_nix/05.Functions_(Introduction).md",
+                "file": "rust/rustProgramming/partTwo/lesson08/01 Passing Parameters by Value.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05.Functions_(Introduction)"
+              "title": "01 Passing Parameters by Value"
             }
           }
         ]
@@ -27,27 +27,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d0b7d56b2cf259b2",
+    "id": "ccde54611ab5ac55",
     "type": "split",
     "children": [
       {
-        "id": "c035cee942903cb1",
+        "id": "e4e07e52c7401869",
         "type": "tabs",
         "children": [
           {
-            "id": "71dbf18fa304c859",
+            "id": "597ac23afbeb4417",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "3fa5ec4d9221c125",
+            "id": "eb90ca809ffcdd4d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +65,7 @@
             }
           },
           {
-            "id": "2e4c2839737c23fa",
+            "id": "b9a574dde826468c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,23 +78,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 330.5
   },
   "right": {
-    "id": "a186cc0577133d81",
+    "id": "fb8665a4ee69717e",
     "type": "split",
     "children": [
       {
-        "id": "12bab62b6541ab26",
+        "id": "ec2e215e6a8ae187",
         "type": "tabs",
         "children": [
           {
-            "id": "e9696e90e8068fe2",
+            "id": "eb9b3727cdcb5216",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nix/a_tour_of_nix/Hello_World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,46 +103,49 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hello_World"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "40b60b326ab252a0",
+            "id": "dbd9f6474ff8e113",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nix/a_tour_of_nix/Hello_World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Hello_World"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "86618052ff4fd036",
+            "id": "26927a788ea6eb69",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "f86fc54c122b0b7d",
+            "id": "4c437331007eccbd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "nix/a_tour_of_nix/Hello_World.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hello_World"
+              "title": "Outline"
             }
           }
         ]
@@ -162,14 +165,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f7de796afad34bc",
+  "active": "c2174f13d224f36c",
   "lastOpenFiles": [
-    "nix/a_tour_of_nix/04.Integer_to_String.md",
+    "nix/a_tour_of_nix/Untitled.md",
     "nix/a_tour_of_nix/05.Functions_(Introduction).md",
+    "nix/a_tour_of_nix/04.Integer_to_String.md",
     "nix/a_tour_of_nix/03.Multiline_String.md",
     "nix/a_tour_of_nix/02.Strings.md",
     "nix/a_tour_of_nix/01.Hello_World.md",
-    "nix/a_tour_of_nix/Untitled.md",
-    "nix/a_tour_of_nix"
+    "nix/a_tour_of_nix",
+    "nix",
+    "programming/rust/rustProgramming/partTwo/lesson08/01 Passing Parameters by Value.md",
+    "programming/rust/rustProgramming/macro.md",
+    "programming/rust/rustProgramming/Enums.md"
   ]
 }
