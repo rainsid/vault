@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rust/rustProgramming/partTwo/lesson08/05 Returning a Reference.md",
+                "file": "rust/rustProgramming/partTwo/lesson08/06 Returning a Mutable Reference.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 Returning a Reference"
+              "title": "06 Returning a Mutable Reference"
             }
           }
         ]
@@ -167,8 +167,9 @@
   },
   "active": "c2174f13d224f36c",
   "lastOpenFiles": [
-    "rust/rustProgramming/partTwo/lesson08/02 Passing Reference Parameters.md",
     "rust/rustProgramming/partTwo/lesson08/05 Returning a Reference.md",
+    "rust/rustProgramming/partTwo/lesson08/06 Returning a Mutable Reference.md",
+    "rust/rustProgramming/partTwo/lesson08/02 Passing Reference Parameters.md",
     "rust/rustProgramming/partTwo/lesson08/04 Returning a Value.md",
     "rust/rustProgramming/partTwo/lesson08/03 Passing Mutable Reference Parameters.md",
     "rust/rustProgramming/partTwo/lesson08/01 Passing Parameters by Value.md",
