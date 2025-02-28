@@ -1,6 +1,6 @@
 # Using Type Inference
 
-- you can use type inference to simplfy syntax
+- you can use type inference to simplify syntax
 - omit parameter type info
 	- Rust will infer the param type based on the values you pass in
 - omit return type info
