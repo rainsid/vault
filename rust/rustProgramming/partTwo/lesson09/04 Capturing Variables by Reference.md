@@ -21,7 +21,7 @@ fn capture_immutable_reference() {
 	display_heading(String::from("hello"));
 	display_heading(String::from("goodbye"));
 
-	println!("{} {}", b1, b2);
+	println!("{} {}", b1, b2); 
 }
 ```
 
