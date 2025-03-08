@@ -26,7 +26,9 @@
    - Complexity 2:
      - Includes lowercase and uppercase letters.
    - Complexity 3:
-     - Includes lowercase, uppercase, digits, and special characters.
+     - Includes lowercase, uppercase and digits.
+	- Complexity 4:
+		- Includes lowercase, uppercase, digits, and special characters. 
 
 4. **Generate Password**
 
