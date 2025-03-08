@@ -27,7 +27,7 @@ let v = vec!["c", "c++", "rust", "zig"];
 println!("redacted programming languages: ");
 
 v.iter()
- .for_each(|_| println ("xxx"));
+ .for_each(|_| println!("xxx"));
 
 ```
 
@@ -41,7 +41,7 @@ let v = vec!["c", "c++", "rust", "zig"];
 println!("uppercase 'c' pl");
 
 v.iter()
-	.filter(|e| e.starts_with('d'))
+	.filter(|e| e.starts_with('c'))
 	.map(|e| e.to_uppercase())
 	.for_each(|e| println!("{}", e));
 ```
