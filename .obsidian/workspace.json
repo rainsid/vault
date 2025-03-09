@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/rust/mini_projects/password_generator/Password Generator.md",
+                "file": "rust/rustProgramming/partTwo/lesson10/02 Creating and Using struct instances.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Password Generator"
+              "title": "02 Creating and Using struct instances"
             }
           }
         ]
@@ -168,6 +168,7 @@
   "active": "71af9787b50d3bc1",
   "lastOpenFiles": [
     "rust/rustProgramming/partTwo/lesson10/01 Defining a Struct Type.md",
+    "rust/rustProgramming/partTwo/lesson10/02 Creating and Using struct instances.md",
     "projects/rust/mini_projects/password_generator/Password Generator.md",
     "projects/rust/mini_projects/password_generator",
     "projects/rust/mini_projects",
