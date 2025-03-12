@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rust/rustProgramming/partTwo/lesson10/03 Passing Struct Parameters by Value.md",
+                "file": "rust/rustProgramming/partTwo/lesson10/04 Passing Struct Parameters by Reference.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 Passing Struct Parameters by Value"
+              "title": "04 Passing Struct Parameters by Reference"
             }
           }
         ]
@@ -162,13 +162,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "71af9787b50d3bc1",
   "lastOpenFiles": [
-    "rust/rustProgramming/partTwo/lesson10/02 Creating and Using struct instances.md",
+    "rust/rustProgramming/partTwo/lesson08/02 Passing Reference Parameters.md",
+    "rust/rustProgramming/partTwo/lesson10/04 Passing Struct Parameters by Reference.md",
     "rust/rustProgramming/partTwo/lesson10/03 Passing Struct Parameters by Value.md",
+    "rust/rustProgramming/partTwo/lesson10/02 Creating and Using struct instances.md",
     "rust/rustProgramming/partTwo/lesson10/01 Defining a Struct Type.md",
     "projects/rust/mini_projects/password_generator/Password Generator.md",
     "projects/rust/mini_projects/password_generator",
@@ -183,7 +186,6 @@
     "rust/rustProgramming/partTwo/lesson09/02 Getting Started with Closures.md",
     "rust/rustProgramming/partTwo/lesson08/03 Passing Mutable Reference Parameters.md",
     "rust/rustProgramming/partTwo/lesson09",
-    "rust/rustProgramming/partTwo/lesson08/02 Passing Reference Parameters.md",
     "rust/rustProgramming/partTwo/lesson08/06 Returning a Mutable Reference.md",
     "rust/rustProgramming/partTwo/lesson08/05 Returning a Reference.md",
     "rust/rustProgramming/partTwo/lesson08/04 Returning a Value.md",
