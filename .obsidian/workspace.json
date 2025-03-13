@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rust/rustProgramming/partTwo/lesson10/05 Returning structs by value.md",
+                "file": "rust/rustProgramming/partTwo/lesson10/06 Return Structs by Reference.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 Returning structs by value"
+              "title": "06 Return Structs by Reference"
             }
           }
         ]
@@ -168,8 +168,9 @@
   },
   "active": "71af9787b50d3bc1",
   "lastOpenFiles": [
-    "rust/rustProgramming/partTwo/lesson10/04 Passing Struct Parameters by Reference.md",
     "rust/rustProgramming/partTwo/lesson10/05 Returning structs by value.md",
+    "rust/rustProgramming/partTwo/lesson10/06 Return Structs by Reference.md",
+    "rust/rustProgramming/partTwo/lesson10/04 Passing Struct Parameters by Reference.md",
     "rust/rustProgramming/partTwo/lesson08/02 Passing Reference Parameters.md",
     "rust/rustProgramming/partTwo/lesson10/03 Passing Struct Parameters by Value.md",
     "rust/rustProgramming/partTwo/lesson10/02 Creating and Using struct instances.md",
@@ -200,7 +201,6 @@
     "nix/a_tour_of_nix",
     "nix",
     "programming/rust/rustProgramming/partTwo/lesson08/01 Passing Parameters by Value.md",
-    "programming/rust/rustProgramming/macro.md",
-    "programming/rust/rustProgramming/Enums.md"
+    "programming/rust/rustProgramming/macro.md"
   ]
 }
