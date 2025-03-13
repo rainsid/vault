@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rust/rustProgramming/partTwo/lesson10/06 Return Structs by Reference.md",
+                "file": "rust/rustProgramming/partTwo/lesson11/01 Implementing Simple Functionality in a Struct.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06 Return Structs by Reference"
+              "title": "01 Implementing Simple Functionality in a Struct"
             }
           }
         ]
@@ -168,8 +168,10 @@
   },
   "active": "71af9787b50d3bc1",
   "lastOpenFiles": [
-    "rust/rustProgramming/partTwo/lesson10/05 Returning structs by value.md",
     "rust/rustProgramming/partTwo/lesson10/06 Return Structs by Reference.md",
+    "rust/rustProgramming/partTwo/lesson11/01 Implementing Simple Functionality in a Struct.md",
+    "rust/rustProgramming/partTwo/lesson11",
+    "rust/rustProgramming/partTwo/lesson10/05 Returning structs by value.md",
     "rust/rustProgramming/partTwo/lesson10/04 Passing Struct Parameters by Reference.md",
     "rust/rustProgramming/partTwo/lesson08/02 Passing Reference Parameters.md",
     "rust/rustProgramming/partTwo/lesson10/03 Passing Struct Parameters by Value.md",
@@ -200,7 +202,6 @@
     "nix/a_tour_of_nix/01.Hello_World.md",
     "nix/a_tour_of_nix",
     "nix",
-    "programming/rust/rustProgramming/partTwo/lesson08/01 Passing Parameters by Value.md",
-    "programming/rust/rustProgramming/macro.md"
+    "programming/rust/rustProgramming/partTwo/lesson08/01 Passing Parameters by Value.md"
   ]
 }
