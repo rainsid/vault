@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rust/rustProgramming/partTwo/lesson11/01 Implementing Simple Functionality in a Struct.md",
+                "file": "rust/rustProgramming/partTwo/lesson11/02 Implementing Mutable Functionality.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 Implementing Simple Functionality in a Struct"
+              "title": "02 Implementing Mutable Functionality"
             }
           }
         ]
@@ -168,8 +168,11 @@
   },
   "active": "71af9787b50d3bc1",
   "lastOpenFiles": [
-    "rust/rustProgramming/partTwo/lesson10/06 Return Structs by Reference.md",
+    "rust/TheRustProgrammingLanguage/ch05/Method Syntax.md",
+    "rust/TheRustProgrammingLanguage/ch05/Defining and Instantiating Structs.md",
+    "rust/rustProgramming/partTwo/lesson11/02 Implementing Mutable Functionality.md",
     "rust/rustProgramming/partTwo/lesson11/01 Implementing Simple Functionality in a Struct.md",
+    "rust/rustProgramming/partTwo/lesson10/06 Return Structs by Reference.md",
     "rust/rustProgramming/partTwo/lesson11",
     "rust/rustProgramming/partTwo/lesson10/05 Returning structs by value.md",
     "rust/rustProgramming/partTwo/lesson10/04 Passing Struct Parameters by Reference.md",
@@ -198,10 +201,7 @@
     "nix/a_tour_of_nix/05.Functions_(Introduction).md",
     "nix/a_tour_of_nix/04.Integer_to_String.md",
     "nix/a_tour_of_nix/03.Multiline_String.md",
-    "nix/a_tour_of_nix/02.Strings.md",
-    "nix/a_tour_of_nix/01.Hello_World.md",
     "nix/a_tour_of_nix",
-    "nix",
-    "programming/rust/rustProgramming/partTwo/lesson08/01 Passing Parameters by Value.md"
+    "nix"
   ]
 }
