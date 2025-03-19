@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rust/rustProgramming/partTwo/lesson11/05 Defining Associated Data.md",
+                "file": "rust/rustProgramming/partTwo/lesson12/01 Trait Essentials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 Defining Associated Data"
+              "title": "01 Trait Essentials"
             }
           }
         ]
@@ -166,10 +166,14 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "71af9787b50d3bc1",
+  "active": "597ac23afbeb4417",
   "lastOpenFiles": [
-    "rust/rustProgramming/partTwo/lesson11/04 Defining Associated Functions.md",
+    "rust/rustProgramming/partTwo/lesson12/demo_module_organization.png",
+    "rust/rustProgramming/partTwo/lesson12/2025-03-19-162336_hyprshot.png",
     "rust/rustProgramming/partTwo/lesson11/05 Defining Associated Data.md",
+    "rust/rustProgramming/partTwo/lesson12/01 Trait Essentials.md",
+    "rust/rustProgramming/partTwo/lesson12",
+    "rust/rustProgramming/partTwo/lesson11/04 Defining Associated Functions.md",
     "rust/rustProgramming/partTwo/lesson11/03 Organizing Code into Modules.md",
     "rust/rustProgramming/partTwo/lesson11/organize_module.png.png",
     "rust/rustProgramming/partTwo/lesson11/02 Implementing Mutable Functionality.md",
@@ -200,8 +204,6 @@
     "rust/rustProgramming/partTwo/lesson08/06 Returning a Mutable Reference.md",
     "rust/rustProgramming/partTwo/lesson08/05 Returning a Reference.md",
     "rust/rustProgramming/partTwo/lesson08/04 Returning a Value.md",
-    "rust/rustProgramming/partTwo/lesson08/01 Passing Parameters by Value.md",
-    "nix/a_tour_of_nix/Untitled.md",
     "nix/a_tour_of_nix",
     "nix"
   ]
