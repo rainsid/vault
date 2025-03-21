@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rust/rustProgramming/partTwo/lesson12/01 Trait Essentials.md",
+                "file": "rust/rustProgramming/partTwo/lesson12/02 Trait Techniques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 Trait Essentials"
+              "title": "02 Trait Techniques"
             }
           }
         ]
@@ -166,12 +166,22 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "597ac23afbeb4417",
+  "active": "71af9787b50d3bc1",
   "lastOpenFiles": [
+    "rust/rustProgramming/partTwo/lesson12/01 Trait Essentials.md",
+    "rust/rustProgramming/partTwo/lesson12/02 Trait Techniques.md",
+    "rust/TheRustProgrammingLanguage/ch06/The match Control Flow Construct.md",
+    "rust/TheRustProgrammingLanguage/ch06/match.md",
+    "rust/TheRustProgrammingLanguage/ch06/Enum.md",
+    "rust/TheRustProgrammingLanguage/ch03/Data Types.md",
+    "rust/TheRustProgrammingLanguage/ch03/Functions.md",
+    "rust/TheRustProgrammingLanguage/ch03/Control Flow.md",
+    "rust/TheRustProgrammingLanguage/ch02/String.md",
+    "rust/TheRustProgrammingLanguage/ch02/Storing Values with Variables.md",
+    "rust/TheRustProgrammingLanguage/ch02/Programming a Guessing Game.md",
     "rust/rustProgramming/partTwo/lesson12/demo_module_organization.png",
     "rust/rustProgramming/partTwo/lesson12/2025-03-19-162336_hyprshot.png",
     "rust/rustProgramming/partTwo/lesson11/05 Defining Associated Data.md",
-    "rust/rustProgramming/partTwo/lesson12/01 Trait Essentials.md",
     "rust/rustProgramming/partTwo/lesson12",
     "rust/rustProgramming/partTwo/lesson11/04 Defining Associated Functions.md",
     "rust/rustProgramming/partTwo/lesson11/03 Organizing Code into Modules.md",
@@ -193,17 +203,8 @@
     "projects/rust/mini_projects",
     "projects/rust",
     "projects",
-    "rust/rustProgramming/partTwo/lesson09/06 Iterating Over a Collection.md",
     "rust/rustProgramming/partTwo/lesson10",
-    "rust/rustProgramming/partTwo/lesson09/05 Capturing Variables by Value.md",
-    "rust/rustProgramming/partTwo/lesson09/04 Capturing Variables by Reference.md",
-    "rust/rustProgramming/partTwo/lesson09/01 Nested Functions.md",
-    "rust/rustProgramming/partTwo/lesson09/02 Getting Started with Closures.md",
-    "rust/rustProgramming/partTwo/lesson08/03 Passing Mutable Reference Parameters.md",
     "rust/rustProgramming/partTwo/lesson09",
-    "rust/rustProgramming/partTwo/lesson08/06 Returning a Mutable Reference.md",
-    "rust/rustProgramming/partTwo/lesson08/05 Returning a Reference.md",
-    "rust/rustProgramming/partTwo/lesson08/04 Returning a Value.md",
     "nix/a_tour_of_nix",
     "nix"
   ]
