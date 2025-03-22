@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rust/rustProgramming/partTwo/lesson12/02 Trait Techniques.md",
+                "file": "rust/rustProgramming/partTwo/lesson12/03 Inheritance and Polymorphism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 Trait Techniques"
+              "title": "03 Inheritance and Polymorphism"
             }
           }
         ]
@@ -168,8 +168,9 @@
   },
   "active": "71af9787b50d3bc1",
   "lastOpenFiles": [
-    "rust/rustProgramming/partTwo/lesson12/01 Trait Essentials.md",
     "rust/rustProgramming/partTwo/lesson12/02 Trait Techniques.md",
+    "rust/rustProgramming/partTwo/lesson12/03 Inheritance and Polymorphism.md",
+    "rust/rustProgramming/partTwo/lesson12/01 Trait Essentials.md",
     "rust/TheRustProgrammingLanguage/ch06/The match Control Flow Construct.md",
     "rust/TheRustProgrammingLanguage/ch06/match.md",
     "rust/TheRustProgrammingLanguage/ch06/Enum.md",
@@ -198,7 +199,6 @@
     "rust/rustProgramming/partTwo/lesson10/03 Passing Struct Parameters by Value.md",
     "rust/rustProgramming/partTwo/lesson10/02 Creating and Using struct instances.md",
     "rust/rustProgramming/partTwo/lesson10/01 Defining a Struct Type.md",
-    "projects/rust/mini_projects/password_generator/Password Generator.md",
     "projects/rust/mini_projects/password_generator",
     "projects/rust/mini_projects",
     "projects/rust",
