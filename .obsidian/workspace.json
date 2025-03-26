@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b120e5e0c74f64b4",
+        "id": "bdef0c6b9c3b7be3",
         "type": "tabs",
         "children": [
           {
-            "id": "71af9787b50d3bc1",
+            "id": "4095b6567a03715d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rust/rustProgramming/partTwo/lesson12/03 Inheritance and Polymorphism.md",
+                "file": "rust/TheRustProgrammingLanguage/ch08/01 Storing List of Values with Vectors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 Inheritance and Polymorphism"
+              "title": "01 Storing List of Values with Vectors"
             }
           }
         ]
@@ -166,19 +166,24 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "71af9787b50d3bc1",
+  "active": "4095b6567a03715d",
   "lastOpenFiles": [
-    "rust/rustProgramming/partTwo/lesson12/02 Trait Techniques.md",
+    "rust/TheRustProgrammingLanguage/ch03/Functions.md",
+    "rust/TheRustProgrammingLanguage/ch03/Data Types.md",
+    "rust/TheRustProgrammingLanguage/ch02/String.md",
+    "rust/TheRustProgrammingLanguage/ch02/Storing Values with Variables.md",
+    "rust/TheRustProgrammingLanguage/ch04/Ownership.md",
+    "rust/TheRustProgrammingLanguage/ch05/Method Syntax.md",
+    "rust/TheRustProgrammingLanguage/ch05/An Example Program Using Structs.md",
+    "rust/TheRustProgrammingLanguage/ch08/01 Storing List of Values with Vectors.md",
     "rust/rustProgramming/partTwo/lesson12/03 Inheritance and Polymorphism.md",
+    "rust/TheRustProgrammingLanguage/ch08",
+    "rust/rustProgramming/partTwo/lesson12/02 Trait Techniques.md",
     "rust/rustProgramming/partTwo/lesson12/01 Trait Essentials.md",
     "rust/TheRustProgrammingLanguage/ch06/The match Control Flow Construct.md",
     "rust/TheRustProgrammingLanguage/ch06/match.md",
     "rust/TheRustProgrammingLanguage/ch06/Enum.md",
-    "rust/TheRustProgrammingLanguage/ch03/Data Types.md",
-    "rust/TheRustProgrammingLanguage/ch03/Functions.md",
     "rust/TheRustProgrammingLanguage/ch03/Control Flow.md",
-    "rust/TheRustProgrammingLanguage/ch02/String.md",
-    "rust/TheRustProgrammingLanguage/ch02/Storing Values with Variables.md",
     "rust/TheRustProgrammingLanguage/ch02/Programming a Guessing Game.md",
     "rust/rustProgramming/partTwo/lesson12/demo_module_organization.png",
     "rust/rustProgramming/partTwo/lesson12/2025-03-19-162336_hyprshot.png",
@@ -188,7 +193,6 @@
     "rust/rustProgramming/partTwo/lesson11/03 Organizing Code into Modules.md",
     "rust/rustProgramming/partTwo/lesson11/organize_module.png.png",
     "rust/rustProgramming/partTwo/lesson11/02 Implementing Mutable Functionality.md",
-    "rust/TheRustProgrammingLanguage/ch05/Method Syntax.md",
     "rust/TheRustProgrammingLanguage/ch05/Defining and Instantiating Structs.md",
     "rust/rustProgramming/partTwo/lesson11/01 Implementing Simple Functionality in a Struct.md",
     "rust/rustProgramming/partTwo/lesson10/06 Return Structs by Reference.md",
@@ -196,16 +200,12 @@
     "rust/rustProgramming/partTwo/lesson10/05 Returning structs by value.md",
     "rust/rustProgramming/partTwo/lesson10/04 Passing Struct Parameters by Reference.md",
     "rust/rustProgramming/partTwo/lesson08/02 Passing Reference Parameters.md",
-    "rust/rustProgramming/partTwo/lesson10/03 Passing Struct Parameters by Value.md",
-    "rust/rustProgramming/partTwo/lesson10/02 Creating and Using struct instances.md",
-    "rust/rustProgramming/partTwo/lesson10/01 Defining a Struct Type.md",
     "projects/rust/mini_projects/password_generator",
     "projects/rust/mini_projects",
     "projects/rust",
     "projects",
     "rust/rustProgramming/partTwo/lesson10",
     "rust/rustProgramming/partTwo/lesson09",
-    "nix/a_tour_of_nix",
-    "nix"
+    "nix/a_tour_of_nix"
   ]
 }
