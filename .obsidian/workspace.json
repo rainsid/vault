@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rust/TheRustProgrammingLanguage/ch08/01 Storing List of Values with Vectors.md",
+                "file": "rust/TheRustProgrammingLanguage/ch08/03 Storing Keys with Associated Values in Hash Maps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 Storing List of Values with Vectors"
+              "title": "03 Storing Keys with Associated Values in Hash Maps"
             }
           }
         ]
@@ -162,12 +162,19 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "copilot:Open Copilot Chat": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "4095b6567a03715d",
   "lastOpenFiles": [
+    "rust/TheRustProgrammingLanguage/ch08/02 Storing UTF-8 Encoded Text with Strings.md",
+    "rust/TheRustProgrammingLanguage/ch08/03 Storing Keys with Associated Values in Hash Maps.md",
+    "rust/TheRustProgrammingLanguage/ch02/Programming a Guessing Game.md",
+    "training/google_cybersecurity/connect_and_protect_networks_and_network_security/module1",
+    "training/google_cybersecurity/connect_and_protect_networks_and_network_security",
+    "training/google_cybersecurity",
+    "training",
+    "rust/TheRustProgrammingLanguage/ch08/01 Storing List of Values with Vectors.md",
     "rust/TheRustProgrammingLanguage/ch03/Functions.md",
     "rust/TheRustProgrammingLanguage/ch03/Data Types.md",
     "rust/TheRustProgrammingLanguage/ch02/String.md",
@@ -175,7 +182,6 @@
     "rust/TheRustProgrammingLanguage/ch04/Ownership.md",
     "rust/TheRustProgrammingLanguage/ch05/Method Syntax.md",
     "rust/TheRustProgrammingLanguage/ch05/An Example Program Using Structs.md",
-    "rust/TheRustProgrammingLanguage/ch08/01 Storing List of Values with Vectors.md",
     "rust/rustProgramming/partTwo/lesson12/03 Inheritance and Polymorphism.md",
     "rust/TheRustProgrammingLanguage/ch08",
     "rust/rustProgramming/partTwo/lesson12/02 Trait Techniques.md",
@@ -184,7 +190,6 @@
     "rust/TheRustProgrammingLanguage/ch06/match.md",
     "rust/TheRustProgrammingLanguage/ch06/Enum.md",
     "rust/TheRustProgrammingLanguage/ch03/Control Flow.md",
-    "rust/TheRustProgrammingLanguage/ch02/Programming a Guessing Game.md",
     "rust/rustProgramming/partTwo/lesson12/demo_module_organization.png",
     "rust/rustProgramming/partTwo/lesson12/2025-03-19-162336_hyprshot.png",
     "rust/rustProgramming/partTwo/lesson11/05 Defining Associated Data.md",
@@ -198,14 +203,8 @@
     "rust/rustProgramming/partTwo/lesson10/06 Return Structs by Reference.md",
     "rust/rustProgramming/partTwo/lesson11",
     "rust/rustProgramming/partTwo/lesson10/05 Returning structs by value.md",
-    "rust/rustProgramming/partTwo/lesson10/04 Passing Struct Parameters by Reference.md",
-    "rust/rustProgramming/partTwo/lesson08/02 Passing Reference Parameters.md",
     "projects/rust/mini_projects/password_generator",
     "projects/rust/mini_projects",
-    "projects/rust",
-    "projects",
-    "rust/rustProgramming/partTwo/lesson10",
-    "rust/rustProgramming/partTwo/lesson09",
-    "nix/a_tour_of_nix"
+    "projects/rust"
   ]
 }

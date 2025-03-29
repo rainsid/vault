@@ -1,7 +1,7 @@
 # What is a String
 
 **String**
-- is a type provided by Rust's standard lib rather than coded into the core langauge
+- is a type provided by Rust's standard lib rather than coded into the core language
 - is growable, mutable, owned, UTF-8 encoded string type
 
 ---
