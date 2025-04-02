@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rust/TheRustProgrammingLanguage/ch08/03 Storing Keys with Associated Values in Hash Maps.md",
+                "file": "rust/TheRustProgrammingLanguage/ch09/01 Unrecoverable Errors With Panic!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 Storing Keys with Associated Values in Hash Maps"
+              "title": "01 Unrecoverable Errors With Panic!"
             }
           }
         ]
@@ -167,8 +167,10 @@
   },
   "active": "4095b6567a03715d",
   "lastOpenFiles": [
-    "rust/TheRustProgrammingLanguage/ch08/02 Storing UTF-8 Encoded Text with Strings.md",
     "rust/TheRustProgrammingLanguage/ch08/03 Storing Keys with Associated Values in Hash Maps.md",
+    "rust/TheRustProgrammingLanguage/ch09/01 Unrecoverable Errors With Panic!.md",
+    "rust/TheRustProgrammingLanguage/ch09",
+    "rust/TheRustProgrammingLanguage/ch08/02 Storing UTF-8 Encoded Text with Strings.md",
     "rust/TheRustProgrammingLanguage/ch02/Programming a Guessing Game.md",
     "training/google_cybersecurity/connect_and_protect_networks_and_network_security/module1",
     "training/google_cybersecurity/connect_and_protect_networks_and_network_security",
@@ -202,9 +204,7 @@
     "rust/rustProgramming/partTwo/lesson11/01 Implementing Simple Functionality in a Struct.md",
     "rust/rustProgramming/partTwo/lesson10/06 Return Structs by Reference.md",
     "rust/rustProgramming/partTwo/lesson11",
-    "rust/rustProgramming/partTwo/lesson10/05 Returning structs by value.md",
     "projects/rust/mini_projects/password_generator",
-    "projects/rust/mini_projects",
-    "projects/rust"
+    "projects/rust/mini_projects"
   ]
 }
