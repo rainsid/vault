@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bdef0c6b9c3b7be3",
+        "id": "dd3b9f2e9a5e142c",
         "type": "tabs",
         "children": [
           {
-            "id": "4095b6567a03715d",
+            "id": "1ce15063c35c2734",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rust/TheRustProgrammingLanguage/ch09/02 Recoverable Errors with Result.md",
+                "file": "rust/rustProgramming/partTwo/lesson12/04 Trait Inheritance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 Recoverable Errors with Result"
+              "title": "04 Trait Inheritance"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 389.5
   },
   "right": {
     "id": "fb8665a4ee69717e",
@@ -162,13 +162,34 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4095b6567a03715d",
+  "active": "1ce15063c35c2734",
   "lastOpenFiles": [
-    "rust/rustProgramming/partOne/lesson06/Static vs Const.md",
+    "rust/rustProgramming/partTwo/lesson12/deque_inherits_queue.png",
+    "rust/rustProgramming/partTwo/lesson12/04 Trait Inheritance.md",
+    "rust/rustProgramming/partTwo/lesson12/03 Inheritance and Polymorphism.md",
+    "rust/rustProgramming/partTwo/lesson12/01 Trait Essentials.md",
+    "rust/rustProgramming/partTwo/lesson12/02 Trait Techniques.md",
+    "rust/TheRustProgrammingLanguage/ch10/02 Traits_ Defining Shared Behavior.md",
+    "rust/rustProgramming/partTwo/lesson12/demo_module_organization.png",
+    "projects/java/consoleQuizApp/NOTES.md",
+    "projects/java/consoleQuizApp/Excalidraw/Drawing 2025-05-30 07.46.33.excalidraw.md",
+    "projects/java/consoleQuizApp/Console Quiz App.md",
+    "projects/java/consoleQuizApp/Excalidraw",
+    "projects/java/consoleQuizApp/Excalidraw/Drawing 2025-05-12 08.58.51.excalidraw.md",
+    "projects/java/consoleQuizApp/Excalidraw/Drawing 2025-05-12 08.59.37.excalidraw.md",
+    "projects/java/consoleQuizApp/Excalidraw/Drawing 2025-05-12 09.01.46.excalidraw.md",
+    "projects/java/consoleQuizApp/Excalidraw",
+    "projects/java/consoleQuizApp",
+    "projects/java",
+    "rust/TheRustProgrammingLanguage/ch10/01 Generic Data Types.md",
+    "rust/TheRustProgrammingLanguage/ch09/03 To `panic!` or Not to `panic!`.md",
+    "rust/TheRustProgrammingLanguage/ch10",
     "rust/TheRustProgrammingLanguage/ch09/02 Recoverable Errors with Result.md",
+    "rust/rustProgramming/partOne/lesson06/Static vs Const.md",
     "rust/TheRustProgrammingLanguage/ch09/01 Unrecoverable Errors With Panic!.md",
     "rust/TheRustProgrammingLanguage/ch08/03 Storing Keys with Associated Values in Hash Maps.md",
     "rust/TheRustProgrammingLanguage/ch09",
@@ -184,27 +205,7 @@
     "rust/TheRustProgrammingLanguage/ch02/String.md",
     "rust/TheRustProgrammingLanguage/ch02/Storing Values with Variables.md",
     "rust/TheRustProgrammingLanguage/ch04/Ownership.md",
-    "rust/TheRustProgrammingLanguage/ch05/Method Syntax.md",
-    "rust/TheRustProgrammingLanguage/ch05/An Example Program Using Structs.md",
-    "rust/rustProgramming/partTwo/lesson12/03 Inheritance and Polymorphism.md",
-    "rust/TheRustProgrammingLanguage/ch08",
-    "rust/rustProgramming/partTwo/lesson12/02 Trait Techniques.md",
-    "rust/rustProgramming/partTwo/lesson12/01 Trait Essentials.md",
-    "rust/TheRustProgrammingLanguage/ch06/The match Control Flow Construct.md",
-    "rust/TheRustProgrammingLanguage/ch06/match.md",
-    "rust/TheRustProgrammingLanguage/ch06/Enum.md",
-    "rust/TheRustProgrammingLanguage/ch03/Control Flow.md",
-    "rust/rustProgramming/partTwo/lesson12/demo_module_organization.png",
     "rust/rustProgramming/partTwo/lesson12/2025-03-19-162336_hyprshot.png",
-    "rust/rustProgramming/partTwo/lesson11/05 Defining Associated Data.md",
-    "rust/rustProgramming/partTwo/lesson12",
-    "rust/rustProgramming/partTwo/lesson11/04 Defining Associated Functions.md",
-    "rust/rustProgramming/partTwo/lesson11/03 Organizing Code into Modules.md",
-    "rust/rustProgramming/partTwo/lesson11/organize_module.png.png",
-    "rust/rustProgramming/partTwo/lesson11/02 Implementing Mutable Functionality.md",
-    "rust/TheRustProgrammingLanguage/ch05/Defining and Instantiating Structs.md",
-    "rust/rustProgramming/partTwo/lesson11",
-    "projects/rust/mini_projects/password_generator",
-    "projects/rust/mini_projects"
+    "rust/rustProgramming/partTwo/lesson11/organize_module.png.png"
   ]
 }
